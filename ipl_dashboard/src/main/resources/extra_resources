@@ -1,0 +1,8 @@
+LINKS:
+
+https://docs.spring.io/spring-batch/docs/current/reference/html/step.html
+https://spring.io/guides/gs/spring-boot/
+https://spring.io/guides/gs/batch-processing/
+
+https://www.ibm.com/docs/en/wasdtfe?topic=architecture-entity-manager
+NOTE: UNION OPERATION CAN BE USED IN SQL BUT NOT IN 'JPA'!!!
